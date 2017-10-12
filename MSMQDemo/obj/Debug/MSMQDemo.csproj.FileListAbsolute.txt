@@ -1,0 +1,30 @@
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.exe.config
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.exe
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.pdb
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\Peek.exe
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\Receive.exe
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\Peek.pdb
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\Peek.exe.config
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\Receive.pdb
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Debug\Receive.exe.config
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.csprojResolveAssemblyReference.cache
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.main.resources
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.Properties.Resources.resources
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.csproj.GenerateResource.Cache
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.exe
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.pdb
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.exe.config
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.exe
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.pdb
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\Peek.exe
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\Receive.exe
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\Peek.pdb
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\Peek.exe.config
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\Receive.pdb
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\bin\Debug\Receive.exe.config
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.csprojResolveAssemblyReference.cache
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.main.resources
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.Properties.Resources.resources
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.csproj.GenerateResource.Cache
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.exe
+C:\Users\i-98\Desktop\MSMQDemo\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.pdb

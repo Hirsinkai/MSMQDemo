@@ -1,0 +1,5 @@
+C:\Users\vipcc\Documents\Visual Studio 2017\Projects\MSMQDemo\Peek\bin\Debug\Peek.exe.config
+C:\Users\vipcc\Documents\Visual Studio 2017\Projects\MSMQDemo\Peek\bin\Debug\Peek.exe
+C:\Users\vipcc\Documents\Visual Studio 2017\Projects\MSMQDemo\Peek\bin\Debug\Peek.pdb
+C:\Users\vipcc\Documents\Visual Studio 2017\Projects\MSMQDemo\Peek\obj\Debug\Peek.exe
+C:\Users\vipcc\Documents\Visual Studio 2017\Projects\MSMQDemo\Peek\obj\Debug\Peek.pdb

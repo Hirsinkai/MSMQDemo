@@ -1,0 +1,9 @@
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Release\MSMQDemo.exe.config
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Release\MSMQDemo.exe
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\bin\Release\MSMQDemo.pdb
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Release\MSMQDemo.main.resources
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Release\MSMQDemo.Properties.Resources.resources
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Release\MSMQDemo.Queue.resources
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Release\MSMQDemo.csproj.GenerateResource.Cache
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Release\MSMQDemo.exe
+C:\Users\vipcc\documents\visual studio 2017\Projects\MSMQDemo\MSMQDemo\obj\Release\MSMQDemo.pdb
